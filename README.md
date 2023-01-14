@@ -1,5 +1,5 @@
 # Deep-Learning-Classification-On-Fashion-MNIST-Dataset-With-CNN
-Usage Of Convolutional Neural Networks (CNN) To Produce Deep Learning Models For MNIST Digits Classification
+Usage Of Convolutional Neural Networks (CNN) To Produce Deep Learning Models For Fashion MNIST Classification
 
 ## Dataset
 Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples.
